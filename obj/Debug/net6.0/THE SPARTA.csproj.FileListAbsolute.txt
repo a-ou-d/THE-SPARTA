@@ -1,0 +1,14 @@
+C:\Users\JOY\Desktop\c#_workspace\THE SPARTA\bin\Debug\net6.0\THE SPARTA.exe
+C:\Users\JOY\Desktop\c#_workspace\THE SPARTA\bin\Debug\net6.0\THE SPARTA.deps.json
+C:\Users\JOY\Desktop\c#_workspace\THE SPARTA\bin\Debug\net6.0\THE SPARTA.runtimeconfig.json
+C:\Users\JOY\Desktop\c#_workspace\THE SPARTA\bin\Debug\net6.0\THE SPARTA.dll
+C:\Users\JOY\Desktop\c#_workspace\THE SPARTA\bin\Debug\net6.0\THE SPARTA.pdb
+C:\Users\JOY\Desktop\c#_workspace\THE SPARTA\obj\Debug\net6.0\THE SPARTA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JOY\Desktop\c#_workspace\THE SPARTA\obj\Debug\net6.0\THE SPARTA.AssemblyInfoInputs.cache
+C:\Users\JOY\Desktop\c#_workspace\THE SPARTA\obj\Debug\net6.0\THE SPARTA.AssemblyInfo.cs
+C:\Users\JOY\Desktop\c#_workspace\THE SPARTA\obj\Debug\net6.0\THE SPARTA.csproj.CoreCompileInputs.cache
+C:\Users\JOY\Desktop\c#_workspace\THE SPARTA\obj\Debug\net6.0\THE SPARTA.dll
+C:\Users\JOY\Desktop\c#_workspace\THE SPARTA\obj\Debug\net6.0\refint\THE SPARTA.dll
+C:\Users\JOY\Desktop\c#_workspace\THE SPARTA\obj\Debug\net6.0\THE SPARTA.pdb
+C:\Users\JOY\Desktop\c#_workspace\THE SPARTA\obj\Debug\net6.0\THE SPARTA.genruntimeconfig.cache
+C:\Users\JOY\Desktop\c#_workspace\THE SPARTA\obj\Debug\net6.0\ref\THE SPARTA.dll
